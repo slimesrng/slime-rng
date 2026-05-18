@@ -1,7 +1,5 @@
 # Slime RNG Script - Inf Luck, Auto Roll, Anti Afk
 
-![Downloads](https://slimesrng.github.io/slime-rng/) ![User Rating](https://slimesrng.github.io/slime-rng/) ![Latest Version](https://slimesrng.github.io/slime-rng/)
-
 > Slime RNG Script automates rolls with inf luck, max luck, anti AFK, and mobile support. Get rare slimes faster in Roblox Slime RNG. 
 
 ## [Download Slime RNG Script](https://slimesrng.github.io/slime-rng/)
